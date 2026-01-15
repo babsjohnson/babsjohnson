@@ -1,4 +1,3 @@
-
 ## Reach Me
 
   <a href="mailto:gmolarte@gmail.com">
@@ -8,7 +7,3 @@
   <a href="https://www.linkedin.com/in/gabiolarte/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=babsjohnson&show_icons=true&theme=dark)
